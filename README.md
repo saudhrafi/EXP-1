@@ -43,13 +43,13 @@ CIRCUIT DIAGRAM:
 CIRCUIT DIAGRAM:
 
 a.   KVL:
-![WhatsApp Image 2025-10-16 at 15 45 55_27a0f433](https://github.com/user-attachments/assets/fbc63406-49eb-4cc7-837b-83b19f129c94)
- 
 
+ 
+![WhatsApp Image 2025-10-14 at 4 06 30 PM](https://github.com/user-attachments/assets/882f98a4-8327-4bff-a6ed-4397c5cea0a9)
 
 b.  KCL:
- ![WhatsApp Image 2025-10-16 at 15 45 54_658b17af](https://github.com/user-attachments/assets/d4213bb6-5323-49c1-a940-6c006b62fc1e)
-
+ 
+![WhatsApp Image 2025-10-14 at 4 07 03 PM](https://github.com/user-attachments/assets/c7e2c9dd-771a-4695-8045-fadd039e6d55)
 
 Calculation:
 
