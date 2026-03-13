@@ -1,7 +1,7 @@
 # EXP-1
 EXPT NO: 1	VERIFICATION OF KIRCHHOFF’S LAWS
 AIM
-a.   To verify Kirchhoff’s Voltage Law (KVL) for the given circuit.
+a.   To verify Kirchhoff’s Voltage Law (KVL) for the given circuit. 
 b.   To verify Kirchhoff’s Current Law (KCL) for the given circuits.
 
 APPARATUS REQUIRED:
@@ -42,37 +42,40 @@ CIRCUIT DIAGRAM:
 
 CIRCUIT DIAGRAM:
 
-a.   KVL:
 
+a.   KVL:
  
-![WhatsApp Image 2025-10-14 at 4 06 30 PM](https://github.com/user-attachments/assets/882f98a4-8327-4bff-a6ed-4397c5cea0a9)
+<img width="1028" height="698" alt="Screenshot 2026-03-09 141933" src="https://github.com/user-attachments/assets/8eb7dfa3-ac9b-4a9f-8d64-4c173c732efe" />
+
 
 b.  KCL:
- 
-![WhatsApp Image 2025-10-14 at 4 07 03 PM](https://github.com/user-attachments/assets/c7e2c9dd-771a-4695-8045-fadd039e6d55)
+ <img width="1026" height="755" alt="Screenshot 2026-03-09 141919" src="https://github.com/user-attachments/assets/b8913711-e765-42d1-8719-677ff50b46f1" />
+
 
 Calculation:
 
-![WhatsApp Image 2025-10-16 at 15 34 42_2862f0d9](https://github.com/user-attachments/assets/1e4e7886-94ff-49be-beaf-531a7d31820d)
-![WhatsApp Image 2025-10-16 at 15 34 43_7a8ad68e](https://github.com/user-attachments/assets/162a3e66-c56d-4a49-9bcb-d396721624de)
-![WhatsApp Image 2025-10-16 at 15 34 43_f2955d9d](https://github.com/user-attachments/assets/4dd58709-b72f-4757-9ae2-c90ecd6b47bd)
+a.   KVL:
+ 
+<img width="1052" height="1280" alt="image" src="https://github.com/user-attachments/assets/92b9d1d0-edca-4e0f-ba43-ab598b036298" />
 
 
+b.  KCL:
+<img width="1072" height="1280" alt="image" src="https://github.com/user-attachments/assets/7077ec08-ecb5-4488-8a94-eb2abfbe0b0e" />
 
+<img width="1036" height="1280" alt="image" src="https://github.com/user-attachments/assets/2623961a-1551-46f6-b2b9-5db4da3d8bb5" />
 
 
 
 Tabulation:
 
-
-
 a.   KVL:
-![WhatsApp Image 2025-10-16 at 15 42 04_0cff4053](https://github.com/user-attachments/assets/ca9fdd21-9805-4497-bb2d-1a529ddcd918)
- 
+ <img width="1147" height="1280" alt="image" src="https://github.com/user-attachments/assets/05992b5a-fb44-46a1-b994-88eb9beb771f" />
+
+<img width="850" height="1148" alt="image" src="https://github.com/user-attachments/assets/8b6843d5-c162-44c5-ad0c-f5d965ec2d7f" />
 
 
 b.  KCL:
-![WhatsApp Image 2025-10-16 at 15 42 33_3015c631](https://github.com/user-attachments/assets/a67ac4d7-e787-4c71-b835-c9572151c83e)
+<img width="1148" height="1273" alt="image" src="https://github.com/user-attachments/assets/3269c25e-3211-411e-af4c-8015f7caa18f" />
 
 
 
