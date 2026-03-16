@@ -47,6 +47,7 @@ a.   KVL:
 
 <img width="1920" height="991" alt="ex1(1)" src="https://github.com/user-attachments/assets/0764175a-f4cd-419e-bd83-5ec80725c4c7" />
 
+https://github.com/saudhrafi/EXP-1/blob/5e0b79bddad554ff27bb1bf27e31da8416e3ccd5/WhatsApp%20Image%202026-03-16%20at%2010.24.27%20AM.jpeg
 
 
 
@@ -55,12 +56,12 @@ b.  KCL:
  
 <img width="1920" height="991" alt="ex1(2)" src="https://github.com/user-attachments/assets/f153d18e-bd6b-4553-8e02-07406d901ec4" />
 
-
+https://github.com/saudhrafi/EXP-1/blob/5e0b79bddad554ff27bb1bf27e31da8416e3ccd5/WhatsApp%20Image%202026-03-16%20at%2010.24.28%20AM.jpeg
 
 Calculation:
 
 a.   KVL:
- 
+ https://github.com/saudhrafi/EXP-1/blob/5e0b79bddad554ff27bb1bf27e31da8416e3ccd5/WhatsApp%20Image%202026-03-16%20at%2010.24.28%20AM%20(1).jpeg
 
 
 
@@ -68,16 +69,16 @@ b.  KCL:
 
 
 
-
+https://github.com/saudhrafi/EXP-1/blob/5e0b79bddad554ff27bb1bf27e31da8416e3ccd5/WhatsApp%20Image%202026-03-16%20at%2010.24.29%20AM.jpeg
 
 Tabulation:
 
 a.   KVL:
-
+https://github.com/saudhrafi/EXP-1/blob/5e0b79bddad554ff27bb1bf27e31da8416e3ccd5/WhatsApp%20Image%202026-03-16%20at%2010.24.29%20AM%20(1).jpeg
 
 
 b.  KCL:
-
+https://github.com/saudhrafi/EXP-1/blob/5e0b79bddad554ff27bb1bf27e31da8416e3ccd5/WhatsApp%20Image%202026-03-16%20at%2010.24.29%20AM%20(2).jpeg
 
 
 RESULT:
